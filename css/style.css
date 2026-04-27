@@ -1,0 +1,131 @@
+.adSize { width: 1080px; height: 1920px;}
+#viewport{ background-color: #fff; }
+#border{ border-color: #777; }
+
+/* #tmp{ background: no-repeat url("../assets/tmp.png"); } */
+
+.half.topR{ height: 1056px; }
+.half.botR{ height: 865px; }
+.f2.half.botR{ height: 1048px}
+.horizontal-pan { height: 872px; width: 1135px; }
+
+#f1-img{ background: no-repeat url("../assets/f1-img.jpg"); }
+#f1-copy1{
+    background: no-repeat url("../assets/f1-copy1.png");
+    clip-path: rect(0px 100% 159px 0px);
+    /* background-color: red; */
+}
+#f1-copy2{
+    background: no-repeat url("../assets/f1-copy2.png");
+    clip-path: rect(0px 100% 288px 0px);
+    /* background-color: orange; */
+}
+#f1-copy3{
+    background: no-repeat url("../assets/f1-copy3.png");
+    clip-path: rect(0px 100% 415px 0px);
+    /* background-color: yellow; */
+}
+#f1-copy4{
+    background: no-repeat url("../assets/f1-copy4.png");
+    clip-path: rect(0px 100% 535px 0px);
+    /* background-color: green; */
+}
+#f1-copy5{
+    background: no-repeat url("../assets/f1-copy5.png");
+    clip-path: rect(0px 100% 666px 0px);
+    /* background-color: indigo; */
+}
+#f1-copy6{
+    background: no-repeat url("../assets/f1-copy6.png");
+    clip-path: rect(0px 100% 786px 0px);
+    /* background-color: violet; */
+}
+#f1-bg{ background-color: #68d1ff; }
+
+#f2-img{ background: no-repeat url("../assets/f2-img.jpg"); }
+#f2-copy1{
+    background: no-repeat url("../assets/f2-copy1.png");
+    clip-path: rect(971px 100% 100% 0px);
+    /* background-color: red; */
+}
+#f2-copy2{
+    background: no-repeat url("../assets/f2-copy2.png");
+    clip-path: rect(1096px 100% 100% 0px);
+    /* background-color: orange; */
+}
+#f2-copy3{
+    background: no-repeat url("../assets/f2-copy3.png");
+    clip-path: rect(1220px 100% 100% 0px);
+    /* background-color: yellow; */
+}
+#f2-copy4{
+    background: no-repeat url("../assets/f2-copy4.png");
+    clip-path: rect(1347px 100% 100% 0px);
+    /* background-color: green; */
+}
+#f2-copy5{
+    background: no-repeat url("../assets/f2-copy5.png");
+    clip-path: rect(1469px 100% 100% 0px);
+    /* background-color: indigo; */
+}
+#f2-bg{ background-color: #ffc522;}
+
+#f3-img{ background: no-repeat url("../assets/f3-img.jpg"); }
+#f3-copy1{
+    background: no-repeat url("../assets/f3-copy1.png");
+    clip-path: rect(0px 100% 248px 0px);
+    /* background-color: red; */
+}
+#f3-copy2{
+    background: no-repeat url("../assets/f3-copy2.png");
+    clip-path: rect(0px 100% 383px 0px);
+    /* background-color: orange; */
+}
+#f3-copy3{
+    background: no-repeat url("../assets/f3-copy3.png");
+    clip-path: rect(0px 100% 522px 0px);
+    /* background-color: yellow; */
+}
+#f3-copy4{
+    background: no-repeat url("../assets/f3-copy4.png");
+    clip-path: rect(0px 100% 653px 0px);
+    /* background-color: green; */
+}
+#f3-copy5{
+    background: no-repeat url("../assets/f3-copy5.png");
+    clip-path: rect(0px 100% 792px 0px);
+    /* background-color: indigo; */
+}
+#f3-bg{ background-color: #000067;}
+
+.f4.img { height: 1280px; }
+#f4-img{ background: no-repeat url("../assets/f4-img.jpg"); }
+#f4-copy1{
+    background: no-repeat url("../assets/f4-copy1.png");
+    clip-path: rect(98px 100% 100% 0px);
+    /* background-color: red; */
+}
+#f4-copy2{
+    background: no-repeat url("../assets/f4-copy2.png");
+    clip-path: rect(162px 100% 100% 0px);
+    /* background-color: orange; */
+}
+#f4-copy3{
+    background: no-repeat url("../assets/f4-copy3.png");
+    clip-path: rect(262px 100% 100% 0px);
+    /* background-color: yellow; */
+}
+#f4-copy4{
+    background: no-repeat url("../assets/f4-copy4.png");
+    clip-path: rect(362px 100% 100% 0px);
+    /* background-color: green; */
+}
+#f4-copy5{
+    background: no-repeat url("../assets/f4-copy5.png");
+    clip-path: rect(464px 100% 100% 0px);
+    /* background-color: indigo; */
+}
+#f4-endmatter1{ background: no-repeat url("../assets/f4-endmatter1.png"); }
+#f4-endmatter2{ background: no-repeat url("../assets/f4-endmatter2.png"); }
+#f4-bg-bot{ height: 640px; background-color: #e0f5ff;}
+
